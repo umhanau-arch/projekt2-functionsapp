@@ -1,0 +1,9 @@
+{
+  "name": "projekt2-functionsapp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Azure Functions Helpdesk Backend",
+  "dependencies": {
+    "mssql": "^10.0.1"
+  }
+}
